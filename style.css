@@ -41,18 +41,11 @@ body{
     font-size: 18px;
 }
 
-.search button{
-    border: 0;
-    outline: 0;
-    background: #ebfffc;
-    border-radius: 50%;
-    width: 60px;
-    height: 60px;
-    cursor: pointer;
-}
-
-.search button img{
-    width: 16px;
+.weather-temp{
+    background: linear-gradient(135deg, #065248, #52847d);
+    margin-top: 20px;
+    padding-bottom: 50px;
+    border-radius: 20px;
 }
 
 .weather-icon{
